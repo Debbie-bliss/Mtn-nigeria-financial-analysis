@@ -41,12 +41,13 @@ This project is for educational and portfolio purposes. Financial figures are pr
 
 ### 1. Financial Dashboard
 
-![MTN Nigeria Financial Dashboard](./01_Financial_Dashboard.png)
+![MTN Nigeria Financial Dashboard](Financial_Dashboard.png)
 
 ### 2. Financial Data
 
-![MTN Nigeria Financial Data](./02_Financial_Data.png)
+![MTN Nigeria Financial Data](Financial_Data.png)
 
 ### 3. Financial Insights
 
-![MTN Nigeria Financial Insights](./03_Financial_Insights.png)
+![MTN Nigeria Financial Insights](Financial_Insight.png)
+
