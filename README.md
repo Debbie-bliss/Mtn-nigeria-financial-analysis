@@ -36,3 +36,13 @@ MTN Nigeria Communications Plc audited financial statements for 2022, 2023, and 
 
 ## Disclaimer
 This project is for educational and portfolio purposes. Financial figures are presented in Nigerian naira millions (₦ million), unless otherwise stated. This analysis is not investment advice.
+## Dashboard Preview
+
+### Financial Dashboard
+[MTN Nigeria Financial Dashboard](01_Financial_Dashboard.png)
+
+### 2. Financial Data
+[MTN Nigeria Financial Data](02_Financial_Data.png)
+
+### 3. Financial Insights
+[MTN Nigeria Financial Insights](03_Financial_Insights.png)
