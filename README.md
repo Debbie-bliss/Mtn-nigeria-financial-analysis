@@ -32,10 +32,16 @@ The objective is to evaluate revenue growth, operating performance, profitabilit
 - Selected screenshots of the analysis and dashboard
 
 ## Data Sources
-MTN Nigeria Communications Plc audited financial statements for 2022, 2023, and 2024. Official source links will be provided where available.
+
+This project uses published financial statements from MTN Nigeria Communications Plc for the years ended 31 December 2022, 2023, and 2024.
+
+- [MTN Nigeria Official Financial Reporting Website — Annual Results and Audited Financial Statements](https://www.mtn.ng/investors/financial-reporting/)
+
+The financial statements were used to analyse revenue, operating performance, finance costs, foreign exchange losses, and profitability. All financial figures are presented in Nigerian naira millions (₦ million), unless otherwise stated.
 
 ## Disclaimer
-This project is for educational and portfolio purposes. Financial figures are presented in Nigerian naira millions (₦ million), unless otherwise stated. This analysis is not investment advice.
+
+This project is for educational and portfolio purposes only. It is not investment advice.
 
 ## Dashboard Preview
 
